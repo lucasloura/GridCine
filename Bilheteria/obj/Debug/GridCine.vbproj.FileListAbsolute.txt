@@ -344,3 +344,29 @@ C:\Users\olive\OneDrive\Documentos\Arquivos FATEC\SIN - Sistemas de Informação
 C:\Users\olive\OneDrive\Documentos\Arquivos FATEC\SIN - Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\GridCine.xml
 C:\Users\olive\OneDrive\Documentos\Arquivos FATEC\SIN - Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\GridCine.pdb
 C:\Users\olive\OneDrive\Documentos\Arquivos FATEC\SIN - Sistemas de Informação\Bilheteria\Bilheteria\obj\Debug\GridCine.frm_abertura.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\bin\Debug\GridCine.exe.config
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\bin\Debug\GridCine.exe
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\bin\Debug\GridCine.pdb
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\bin\Debug\GridCine.xml
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.vbproj.AssemblyReference.cache
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.vbproj.SuggestedBindingRedirects.cache
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\Interop.ADODB.dll
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.vbproj.ResolveComReference.cache
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_abertura.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_gerente.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.checar_filmes.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_checar_pedidos.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_configurar_contas.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_consultar_registros.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_operador.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.Gerar_relatorio.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_login.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.Resources.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_realizar_pedido.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_esqueceu_senha.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.frm_sessao.resources
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.vbproj.GenerateResource.cache
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.vbproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.exe
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.xml
+C:\Users\olive\OneDrive\Documentos\GitHub\GridCine\Bilheteria\obj\Debug\GridCine.pdb
