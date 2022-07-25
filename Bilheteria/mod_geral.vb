@@ -1711,6 +1711,16 @@
             MsgBox("Erro ao aplicar o tema " & tema & " na página de venda de ingressos", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ATENÇÃO")
         End Try
         Try
+            With frm_sessao
+                .btn_fundo.BackColor = Color.FromName(corSec)
+                .btn_fundo.ForeColor = Color.FromName(corSec)
+                .lbl_assentos_selecionados.BackColor = Color.FromName(corSec)
+                .lbl_assentos_selecionados.ForeColor = Color.FromName(corPrm)
+            End With
+        Catch ex As Exception
+            MsgBox("Erro ao aplicar o tema " & tema & " na página de escolha de sessão", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ATENÇÃO")
+        End Try
+        Try
             With frm_gerente
                 .GroupBox1.BackColor = Color.FromName(corSec)
                 .btn_trocar_tema.BackColor = Color.FromName(corSec)

@@ -4,7 +4,11 @@
         If cont = qtde_assentos Then
             Me.Close()
         Else
-            MsgBox("Selecione mais " & qtde_assentos - cont & " assento(s)!")
+            If qtde_assentos - cont = 1 Then
+                MsgBox("Selecione mais 1 assento!", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ATENÇÃO")
+            Else
+                MsgBox("Selecione mais " & qtde_assentos - cont & " assentos!", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ATENÇÃO")
+            End If
         End If
     End Sub
 
@@ -137,7 +141,7 @@
                 cont = cont + 1
             End If
         Else
-                btn_A2.BackgroundImage = Image.FromFile(Application.StartupPath & "\icones\assento_disponivel.png")
+            btn_A2.BackgroundImage = Image.FromFile(Application.StartupPath & "\icones\assento_disponivel.png")
             btn_A2.BackColor = Color.Black
             assentos = assentos.Replace("A2 ", "")
             sql = "update tb_sessoes set A2 = 0 where id_sessao = " & id_sessao & ""
@@ -158,7 +162,7 @@
                 cont = cont + 1
             End If
         Else
-                btn_A3.BackgroundImage = Image.FromFile(Application.StartupPath & "\icones\assento_disponivel.png")
+            btn_A3.BackgroundImage = Image.FromFile(Application.StartupPath & "\icones\assento_disponivel.png")
             btn_A3.BackColor = Color.Black
             assentos = assentos.Replace("A3 ", "")
             sql = "update tb_sessoes set A3 = 0 where id_sessao = " & id_sessao & ""
