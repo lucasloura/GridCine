@@ -36,6 +36,12 @@
                             Exit Sub
                         Else
                             MsgBox("Dados inválidos!" + vbNewLine + "Limite de tentativas excedido!", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ATENÇÃO")
+                            Try
+                                sql = "update tb_funcionarios set status = 'bloqueado' where cpf = '" & txt_cpf.Text & "'"
+                                db.Execute(sql)
+                            Catch ex As Exception
+
+                            End Try
                             Me.Close()
                         End If
                     Else
